@@ -3,7 +3,6 @@
 A modern, elegant desktop application for tracking personal expenses and managing your budget. Built with Python and Tkinter, featuring a beautiful user interface with scrollable tabs, elegant typography, and comprehensive expense management.
 
 ![Python](https://img.shields.io/badge/Python-3.6+-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)
 
 ## ✨ Features
